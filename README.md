@@ -1,2 +1,3 @@
-# TelegramBotHerokuColab
-Телеграмм-бот на Python и библиотеке Telebot
+# telegramBotHerokuColab
+
+Тестовое описание
